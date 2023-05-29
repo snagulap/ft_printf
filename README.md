@@ -26,6 +26,7 @@ int main(void)
 Compile the main.c file with the ft_printf library and run the program:
 
 gcc main.c libftprintf.a && ./a.out
+
 Output should be:
 
 Testing ft_printf!
